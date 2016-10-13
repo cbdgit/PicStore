@@ -1,2 +1,2 @@
 # PicStore
-学习RxJava的简单练习，将手机相册的图片用RecyclerView加载出来，并使用Luabn将图片压缩展示
+学习RxJava的简单练习，将手机相册的图片用RecyclerView展示出来，点击一个图片，使用Luabn将图片压缩后单独展示出来
