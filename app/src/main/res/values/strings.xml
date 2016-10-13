@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PicStore</string>
+    <string name="show_name">展示图片</string>
+</resources>
